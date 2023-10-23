@@ -22,6 +22,7 @@
 И такие манипуляции мы проводим с остальными машинами.
 ![image](https://github.com/wxxkoos/practice2k23/assets/100823878/b8176f6e-10a2-4d57-9b4d-3fe75c0f1192)
 
+
 | Имя устройства  | Интерфейс     |   IPv4/IPv6   |  Маска/Префикс  |     Шлюз      |
 | -------------   | ------------- | ------------- | --------------- | ------------- |
 | ISP             | Content Cell  | Content Cell  | Content Cell    | Content Cell  |
