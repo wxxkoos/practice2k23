@@ -25,12 +25,14 @@
 
 | Имя устройства  | Интерфейс     |   IPv4/IPv6   |  Маска/Префикс  |     Шлюз      |
 | -------------   | ------------- | ------------- | --------------- | ------------- |
-| ISP             | Content Cell  | Content Cell  | Content Cell    | Content Cell  |
-| HQ-R            | Content Cell  | Content Cell  | Content Cell    | Content Cell  |
-| BR-R            | Content Cell  | Content Cell  | Content Cell    | Content Cell  |
-| HQ-SRV          | Content Cell  | Content Cell  | Content Cell    | Content Cell  |
-| BR-SRV          | Content Cell  | Content Cell  | Content Cell    | Content Cell  |
+| ISP             | ens192  | 192.168.0.2  | /24    | 192.168.0.1  |
+| HQ-R            | ens192  | 192.168.0.3  | /24    | 192.168.0.1  |
+| BR-R            | ens192  | 192.168.0.4  | /24    | 192.168.0.1  |
+| HQ-SRV          | ens192  | 192.168.0.5  | /24    | 192.168.0.1  |
+| BR-SRV          | ens192  | 192.168.0.6  | /24    | 192.168.0.1  |
+                  | ens224  |              | /24    |              |
 
+                  
 
 
 
