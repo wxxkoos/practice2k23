@@ -18,9 +18,17 @@
 ![image](https://github.com/wxxkoos/practice2k23/assets/100823878/de6dfeb0-6e41-4e22-908d-0cff21d8b373) (Тут мы выбираем наш часовой пояс, выбирайте любой).
 ![image](https://github.com/wxxkoos/practice2k23/assets/100823878/2fad7762-e432-4d61-9926-d5ea4ba6d141) (На данном этапе нужно выбрать первый пункт).
 ![image](https://github.com/wxxkoos/practice2k23/assets/100823878/62f0b04b-eb39-4014-83ec-9073a8bcea0d) **процесс установки**
+![image](https://github.com/wxxkoos/practice2k23/assets/100823878/532cf551-7dfa-4b06-ad4f-c1be22c347a1) **процесс установки 2.0**
+И такие манипуляции мы проводим с остальными машинами.
+![image](https://github.com/wxxkoos/practice2k23/assets/100823878/b8176f6e-10a2-4d57-9b4d-3fe75c0f1192)
 
-
-
+**| Имя устройства  | Интерфейс     |   IPv4/IPv6   |  Маска/Префикс  |     Шлюз      |**
+  | -------------   | ------------- |
+  | ISP             | Content Cell  | Content Cell  | Content Cell    | Content Cell  |
+  | HQ-R            | Content Cell  | Content Cell  | Content Cell    | Content Cell  |
+  | BR-R            | Content Cell  | Content Cell  | Content Cell    | Content Cell  |
+  | HQ-SRV          | Content Cell  | Content Cell  | Content Cell    | Content Cell  |
+  | BR-SRV          | Content Cell  | Content Cell  | Content Cell    | Content Cell  |
 
 
 
